@@ -11,5 +11,5 @@ Pulled the zipkin docker image to run a container and test the zipkin functional
 
 OR
 
-Download the jar from zipkin-server-2.23.2-exec.jar from maven repository and run the jar using the below command</br>
+Download the zipkin-server-2.23.2-exec.jar from maven repository and run the jar using the below command</br>
    java -jar zipkin-server-2.23.2-exec.jar 
